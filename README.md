@@ -1,2 +1,2 @@
 # AdventIOfCode2025
-Advent of Code 2025
+Using advent of Code 2025 to learn go.
